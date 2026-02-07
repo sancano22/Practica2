@@ -8,10 +8,11 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test": "ok test"
+    "test": "jest"
   },
   "dependencies": {
     "axios": "^1.13.4",
+    "jest": "^30.2.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
